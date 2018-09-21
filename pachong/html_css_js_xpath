@@ -1,3 +1,3 @@
-1.css选择器
+1.css
 如果不加空格，则代表并列关系，如div#container .wrapper p.text代表先选择id为container的div节点，
 然后选中其内部的class为wrapper的节点，再进一步选中其内部的class为text的p节点。
