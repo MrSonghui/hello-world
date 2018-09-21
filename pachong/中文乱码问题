@@ -1,0 +1,4 @@
+# 1.在爬取某些网站时，爬取到的中文为乱码。
+# res = requests.get(url, headers=headers)
+# 解决办法：加下面这么一句就OK了！
+# res.encoding = 'gb18030'
